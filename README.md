@@ -92,7 +92,7 @@
     FROM Ola.bookings
     WHERE Incomplete_Rides = 'Yes';
 
-# For the Power BI the qiestions where divide into 5 views
+# For the Power BI the questions were divide into 5 views
 ## 1.Overall
 - Ride Volume Over Time
 - Booking Status Breakdown
